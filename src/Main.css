@@ -1,0 +1,15 @@
+div{
+  width: 100%;
+}
+.home{
+  height: 1800px;
+  background: #f1f1f1;
+}
+.home .splash, .content, .cta{
+  height: 600px;
+  border: 1px solid #2b2b2b;
+}
+.header, .footer {
+  height: 100px;
+  background: #2b2b2b;
+}
